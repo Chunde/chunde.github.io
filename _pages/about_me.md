@@ -1,6 +1,8 @@
-# More than 10 years ago
+# Before coming to the States
 My desire to explore the natural world inspired me to venture into the vast field of science and sparked my passion for physics from a young age. In high school, I ranked among the top three students in physics out of more than 600 peers and even earned a national award in a physics competition. In 2003, I began studying software engineering at Xiamen University. Though I initially felt uncertain, I dedicated myself fully to my computer science (CS) studies and achieved excellent results. My undergraduate GPA was approximately 3.3/4.0; while this may not seem exceptionally high, my engineering skills and research ability distinguished me as one of the top students in academic research. I have a talent for applying existing knowledge and constantly seek to learn more.
 
 After graduation, my dream of becoming a physicist quietly reemerged. However, by then, I had already been accepted into a master’s program in CS. In 2007, I continued my studies in CS but also made up for my foundational physics courses. I further pursued advanced graduate courses, including group theory and mathematical methods in physics. In 2008, I took the Physics GRE and achieved a high score. Throughout my three years of graduate study, I balanced my interest in physics with my CS research, ultimately earning my master’s degree in June 2010. My thesis was ranked the best in an anonymous review. 
 
 This seven-year journey in higher education revealed both my strengths and areas for growth. My primary traits—optimism, persistence, and a sense of youthful curiosity—remain my driving forces. While I tend to grasp foundational knowledge more gradually, I do so thoroughly, allowing me to acquire new information rapidly in applied research.
+
+# After Physics Ph.D
