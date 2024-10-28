@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Me
+title: Stories
 description: 
 nav: true
 nav_order: 7
