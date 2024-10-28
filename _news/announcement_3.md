@@ -1,8 +1,12 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2016-05-12
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Poster: Optical Dipole Potentials Using a Digital Micromirror Device
+
+<!-- ## Poster -->
+<!-- 
+![Optical Dipole Potentials Using a Digital Micromirror Device](./assets/Poster.png) -->
