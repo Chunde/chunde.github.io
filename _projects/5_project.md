@@ -1,24 +1,16 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Model-Based deep Learning for Reinforcement Learning
+description: 
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: Research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Deep Q-Learning (DQL) is a temporal difference method used to estimate an action-value function. Rather than estimating the real-valued prediction for every possible state-action pair, we propose an alternative approach that involves learning a probabilistic model of the transition function. Specifically, we employ a convolutional network trained on 4-tuples (state, action, reward, and next state). Instead of directly learning an action-value function, this network learns to predict the next state and reward based on a given state-action input. This model-based approach enables integration of planning, reducing the amount of real-world data required, though it demands greater computational resources during training.
+My interest in this area was sparked by Google's DeepMind achievement with Atari, which I found truly inspiring. At the time I was developing this project, my knowledge of reinforcement learning was limited. To gain a deeper understanding of DQN, I began by studying and debugging Pac-Man code to grasp its core principles. Following this, I explored the source code of DeepMind’s Atari framework and successfully replicated their results on the "Breakout" game, as described in their Nature paper. After training the DQN network for approximately 12 million steps, I achieved my expected outcomes and continued to explore the LUA source code, eventually gaining a comprehensive understanding of the implementation details.
+I also experimented with transferring parameters from a trained network to a new game to accelerate training. This approach provided valuable insights into optimizing training processes across tasks.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

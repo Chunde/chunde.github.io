@@ -1,25 +1,13 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Optical Dipole Potentials Using a Digital Micromirror Device
+description: 
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+# redirect: https://unsplash.com
 importance: 3
-category: work
+category: Research
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Ultra-cold atoms, trapped in arbitrary shaped miniaturized potentials, have interesting applications in many body physics, quantum information etc. Here we use a digital micromirror device (DMD) as a spatial light modulator to generate arbitrary dipole potentials with controllable intensity. DMDs are fast, flexible and economical. Such a device may be very useful for a wide range of Bose Einstein Condensate (BEC) experiments where control over the profile of the light source is required. To generate a desired dipole potential, the DMD is controlled by a software system which is being developed in house such that pattern design and simulation work efficiently. It also implements algorithms for other general experimental purposes such as intensity modulation for uniform beams, automatic light profile compensation for non-uniform beams and optical setup assistance. Here we present the current progress of our DMD project aimed towards BEC experiments and discuss the capabilities and limiting factors.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

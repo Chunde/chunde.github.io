@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-I have taught undergraduate physics labs for Physics 201 and 202 at Washington State University for several years, where I was regarded by students as one of their favorite teaching assistants. I enjoyed sharing my knowledge and experiences in physics with younger students, encouraging them to pursue excellence in science.
+I taught undergraduate physics labs for Physics 201 and 202 at Washington State University for several years, where I was regarded by students as one of their favorite teaching assistants. I enjoyed sharing my knowledge and experiences in physics with students, encouraging them to pursue excellence in science.
 
 ## Physics 201
 Physics 201 at Washington State University is a calculus-based course titled **Physics for Scientists and Engineers I**. It covers a range of fundamental topics including mechanics, vibrations and waves, and thermodynamics². The course is designed to help students understand the principles of motion, energy, and the behavior of materials and fluids.
