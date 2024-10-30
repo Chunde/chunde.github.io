@@ -1,25 +1,16 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: Face Recognition Based on Gabor Feature
+description: My first big Project in Computer Vision
 img: assets/img/4.jpg
 importance: 1
-category: work
+category: Research
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project was my first foray into computer vision. I independently designed and implemented all the algorithms, such as FFT and Adaboost. The associated software features a sleek UI and delivers real-time performance, thanks to a well-designed tech stack and solid software engineering principles. This project also earned second prize in a national academic contest.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
