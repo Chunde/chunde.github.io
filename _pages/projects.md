@@ -2,7 +2,8 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: All images for cards are created by AI.
+description: This page highlights our accomplished projects and research endeavors, covering a range of topics in computer science, optics, quantum simulation, and experimental work. Some cards feature demo videos, while others will be updated to reflect future advancements. I look forward to adding more projects soon - stay tuned for updates!
+
 nav: true
 nav_order: 3
 display_categories: [Research]
