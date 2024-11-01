@@ -1,80 +1,24 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
+title: Face Localization Using Active Shape Model
+description: Project for undergraduate thesis
+img: assets/img/face_localization_using_active_shape_model.gif
 importance: 4
-category: fun
+category: Research
+---
+Here’s the reformatted text:
+
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The Active Shape Model (ASM) is a popular statistical tool for locating examples of known objects in images. It was first introduced by Cootes et al. [1] in 1995 and has been developed and improved over many years. ASM is a model-based method that uses a prior model of what is expected in the image. Essentially, the Active Shape Model consists of a set of profile models and a deformable shape model. The shape model describes the typical variations of an object exhibited in a set of manually annotated images, while the profile models provide a statistical representation of the gray-level structures around each model point. Given a sufficiently accurate starting position, the ASM search attempts to find the best match of the shape model to the data in a new image using the profile models. ASM also has global constraints that allow the shape model to deform only in ways observed in the training set.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Many researchers have tried to combine pure ASM with other approaches or models to enhance its robustness, addressing some inherent limitations of the ASM model. For example, the ASM model is sensitive to illumination changes, so some researchers refine the model by introducing Local Binary Patterns (LBP) [2] into ASM model construction to make it more robust to illumination variations.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+A direct extension of the ASM approach led to the development of the Active Appearance Model (AAM) [3]. In addition to shape information, AAM incorporates textual information—namely, pixel intensities across the object—into the model. The AAM algorithm seeks to match both the position of the model points and a representation of the object’s texture to an image.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### References
+[1] T.F. Cootes, G.J. Edwards, and Taylor C.J. Active appearance models.[R] In 5th European Conference on Computer Vision, Berlin, Germany,1998. Springer.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+[2] Jean Keomany of Swiss Federal Institute of Technology (EPFL), Lausanne, S´ebastien Marcelof IDIAP Research Institute Martigny. Active Shape Models Using Local Binary Patterns[R],February 2006 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+[3] G.J. Edwards, C.J. Taylor and T.F. Cootes,Wolfson .Interpreting Face Images using Active Appearance Models Image Analysis Unit[R]. Department of Medical Biophysics, University of Manchester, of Manchester M13 9PT, U.K.  
