@@ -5,8 +5,6 @@ description: Project for undergraduate thesis
 img: assets/img/face_localization_using_active_shape_model.gif
 importance: 4
 category: Research
----
-Here’s the reformatted text:
 
 ---
 
