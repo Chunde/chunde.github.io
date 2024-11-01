@@ -19,6 +19,10 @@ Google's DeepMind achievement with Atari sparked my interest in this area. Initi
 Experimentation and Optimization
 I also experimented with transferring parameters from a trained network to a new game to accelerate training. This approach provided valuable insights into optimizing training processes across tasks.
 
-## Demo: Training a Pac-Man Model
+## Demo: Training a Pac-Man Agent
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/r3pb-ZDEKVg?si=XFCLh7yszaAjbx53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Training a Atlantis Agent
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8GKjSAr-lwI?si=gsSSS__7VGsTQ2vr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: 
+description: All images for cards are created by AI.
 nav: true
 nav_order: 3
 display_categories: [Research]
