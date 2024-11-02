@@ -52,7 +52,7 @@
       "startDate": "2013-08-15",
       "endDate": "2020-05-20",
       "score": "10",
-      "courses": ["Theory of Relativity", "Quantum Physics"]
+      "courses": ["Theory of Relativity", "Quantum Physics", "Theoretical Physics", "Thermal Statistics", "Electromagnetism", "Quantum Computing", "Non-linear Optics"]
     },
     {
       "institution": "Xiamen University, ",
@@ -63,7 +63,7 @@
       "startDate": "2007-09-01",
       "endDate": "2010-07-01",
       "score": "10",
-      "courses": ["Computer Vision"]
+      "courses": ["Computer Vision","Advanced Algorithm","Graphics","Advanced Software Architecture"]
     },
     {
       "institution": "Xiamen University, ",
@@ -74,7 +74,7 @@
       "startDate": "2003-09-01",
       "endDate": "2007-07-01",
       "score": "10",
-      "courses": ["Data Structure", "C language", "Algorithm", "Hardware Archtectruire", "Software Architecture", "Network", "Data Base", "Operating System", "Compiler Principle", "UML"]
+      "courses": ["Data Structure", "C language", "Algorithm", "Hardware Archtectruire", "Software Architecture", "Network", "Database", "Operating System", "Compiler Principle", "UML", "JAVA", "Assembly Language", "Security", "Calculus", "Linear Algebra", "Group Theory", "Probability and Statistics"]
     }
   ],
   "awards": [
