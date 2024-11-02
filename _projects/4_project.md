@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Atom Chip D-Kick Simulation for NASA’s Micro Gravity Experiments in IIS
-description: 
+title: Atom Chip D-Kick Simulation 
+description: NASA’s Micro Gravity Experiments in IIS
 img: assets/img/nasa_s_cold_atom_laboratory.jpg
 importance: 3
 category: Research

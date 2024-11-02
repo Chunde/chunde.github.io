@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Model-Based deep Learning for Reinforcement Learning
-description: 
+description: First project in reinforcement learning
 img: assets/img/deep_q_learning.jpeg
 importance: 3
 category: Research

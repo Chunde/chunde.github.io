@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Optical Dipole Potentials Using a Digital Micromirror Device
-description: 
+description: Manipulate laser wave front with will
 img: assets/img/array_of_tiny_mirror.jpg
 # redirect: https://unsplash.com
 importance: 3
