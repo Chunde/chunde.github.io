@@ -8,9 +8,6 @@ tags: Bioogy
 categories: 2024 Application
 ---
 
-
-#### List of Researchers for Biological Engieering
-
 A table with information on 20 professors whose research aligns well with biological engineering, systems biology, molecular modeling, and computational biology, making them strong potential supervisors for your interests.
 
 | Professor          | Institution                | Field                          | Landmark Paper                                                | Citation Count |
