@@ -165,6 +165,27 @@
       "keywords": [
         
       ]
+    },
+    {
+      "name": "Swimming",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Marathon",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Hiking",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        
+      ]
     }
   ]
 }
