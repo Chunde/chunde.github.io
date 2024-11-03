@@ -8,9 +8,7 @@ tags: Bioogy
 categories: 2024 Application
 ---
 
-Here is a list of 20 professors in biological engineering, synthetic biology, or related fields, with their landmark publications where they are listed as first or corresponding authors. These researchers have contributed significantly to fields like CRISPR gene editing, synthetic biology, protein design, and systems biology. 
-
-Each professor's institution, state, and a notable publication are included.
+Here is a list of professors in biological engineering, synthetic biology, or related fields, with their landmark publications where they are listed as first or corresponding authors. These researchers have contributed significantly to fields like CRISPR gene editing, synthetic biology, protein design, and systems biology. 
 
 ---
 
