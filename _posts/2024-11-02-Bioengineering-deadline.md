@@ -10,16 +10,19 @@ thumbnail: assets/img/9.jpg
 
 ## Berkeley
 ## Deadline: December 1
-* We invite applications from students with a strong interest in the life sciences and demonstrated strength in mathematics and physical sciences. Consideration is also given to applicants with strong, relevant life science backgrounds who have demonstrated quantitative skills. Our program attracts motivated, independent students with a diversity of experience who are eager to contribute to the growing field of bioengineering.
+* Fee: 155$
+* Apply at https://gradapp.berkeley.edu/apply/
+  * We invite applications from students with a strong interest in the life sciences and demonstrated strength in mathematics and physical sciences. Consideration is also given to applicants with strong, relevant life science backgrounds who have demonstrated quantitative skills. Our program attracts motivated, independent students with a diversity of experience who are eager to contribute to the growing field of bioengineering.
 
-* We are particularly interested in providing educational opportunities for students from diverse populations, including student parents, veterans, disabled persons, and scholars historically underrepresented in the biological and engineering disciplines.
+  * We are particularly interested in providing educational opportunities for students from diverse populations, including student parents, veterans, disabled persons, and scholars historically underrepresented in the biological and engineering disciplines.
 
-* Anyone with a Bachelor of Arts or Bachelor of Science degree in engineering, biology, or other sciences, is eligible for admission. Appropriate academic preparation includes a two-year college mathematics sequence, including calculus and differential equations, and a one-year sequence in physics and chemistry, plus extensive upper-division work in either engineering or biology. A course in linear algebra is highly desirable. Outstanding students lacking some of these requirements may be admitted on the condition that they complete the basic entrance requirements immediately after admission.
+  * Anyone with a Bachelor of Arts or Bachelor of Science degree in engineering, biology, or other sciences, is eligible for admission. Appropriate academic preparation includes a two-year college mathematics sequence, including calculus and differential equations, and a one-year sequence in physics and chemistry, plus extensive upper-division work in either engineering or biology. A course in linear algebra is highly desirable. Outstanding students lacking some of these requirements may be admitted on the condition that they complete the basic entrance requirements immediately after admission.
 
-* In addition to the above undergraduate work, a successful applicant generally has a minimum grade point average of 3.5 or higher (on a 4.0 scale), and three strong letters of recommendation from faculty with whom they have worked closely. Most of our successful applicants also have some prior research experience.
+  * In addition to the above undergraduate work, a successful applicant generally has a minimum grade point average of 3.5 or higher (on a 4.0 scale), and three strong letters of recommendation from faculty with whom they have worked closely. Most of our successful applicants also have some prior research experience.
   
 ## Stanford 
 * Good to go
+  
 ## Harvard
 ### Deadline: December 15
 * Apply at https://gsas.harvard.edu/apply
@@ -31,6 +34,7 @@ thumbnail: assets/img/9.jpg
 ### Deadline:  December 15
 * Apply at  https://apply.mit.edu/apply/
 * Fee: 90$
+  
 ### Biological Engineering Core:
 * 20.420J Principles of Molecular Bioengineering
 * 20.440 Analysis of Biological Networks
@@ -40,6 +44,8 @@ thumbnail: assets/img/9.jpg
 
 ## UCSD
 
+### Deadline:  December 4
+* Apply at  https://connect.grad.ucsd.edu/apply
 
 ## UW
 ### Deadline: Dec 2
