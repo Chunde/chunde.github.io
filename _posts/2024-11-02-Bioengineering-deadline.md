@@ -9,7 +9,7 @@ thumbnail: assets/img/9.jpg
 ---
 
 ## Berkeley
-## Deadline: December 1
+### Deadline: December 1
 * Fee: 155$
 * Apply at https://gradapp.berkeley.edu/apply/
   * We invite applications from students with a strong interest in the life sciences and demonstrated strength in mathematics and physical sciences. Consideration is also given to applicants with strong, relevant life science backgrounds who have demonstrated quantitative skills. Our program attracts motivated, independent students with a diversity of experience who are eager to contribute to the growing field of bioengineering.
