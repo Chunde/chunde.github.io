@@ -19,7 +19,7 @@ thumbnail: assets/img/9.jpg
 * In addition to the above undergraduate work, a successful applicant generally has a minimum grade point average of 3.5 or higher (on a 4.0 scale), and three strong letters of recommendation from faculty with whom they have worked closely. Most of our successful applicants also have some prior research experience.
   
 ## Stanford 
-
+* Good to go
 ## Harvard
 ### Deadline: December 15
 * Apply at https://gsas.harvard.edu/apply
@@ -39,3 +39,13 @@ thumbnail: assets/img/9.jpg
 * Success in the challenging coursework and research components of the MIT BE PhD program requires a strong academic background in both biology and quantitative engineering or science. While many successful applicants hold undergraduate engineering degrees and have completed substantial coursework in biology, there are different ways to demonstrate the academic preparation needed. Applicants whose principal degree is quantitative, computational, engineering, or in the physical sciences can bolster their training in biology by taking core biology courses like biochemistry, genetics, and cell biology. Applicants whose principal degree is in a life science field can acquire quantitative training in courses beyond calculus, biostatistics, and programming/informatics such as differential equations, linear algebra, and advanced courses in probability, statistics, analysis, and computer science.
 
 ## UCSD
+
+
+## UW
+### Deadline: Dec 2
+* Apply at https://apply.grad.uw.edu/portal/gr_app
+* Fee: 85$
+  
+#### Addtional Requirement
+* 1-2 laboratory rotations during the first year.  If needed, a third rotation must be approved by petition to the Graduate Student Affairs Committee.
+* 1-quarter teaching experience – either a TAship or grader with student contract position. This requirement can be completed at any point during the PhD degree but is encouraged to be undertaken after the second year.
