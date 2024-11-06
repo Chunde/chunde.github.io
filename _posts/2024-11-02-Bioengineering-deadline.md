@@ -46,6 +46,33 @@ thumbnail: assets/img/9.jpg
 
 ### Deadline:  December 4
 * Apply at  https://connect.grad.ucsd.edu/apply
+### Labs
+Top professors at UC San Diego (UCSD) who align with your interests in bioengineering, regenerative medicine, stem cell research, and gene editing, here are five faculty members who may be a great fit:
+
+1. **Dr. Kun Zhang**  
+   **Position:** Professor and Chair, Department of Bioengineering  
+   **Research Focus:** Dr. Zhang's research is in genome sequencing, epigenomics, and single-cell genomics, with applications in understanding complex diseases, stem cell biology, and developmental processes. His lab focuses on how genetic and epigenetic information guides stem cell differentiation, which aligns well with your interest in understanding the molecular mechanisms behind cellular behavior and regenerative medicine.  
+   **Lab Page:** [Kun Zhang Lab](https://bioengineering.ucsd.edu/people/faculty/faculty-directory/faculty-profile-kun-zhang.html)
+
+2. **Dr. Shyni Varghese**  
+   **Position:** Professor, Department of Bioengineering and Material Science and Engineering  
+   **Research Focus:** Dr. Varghese works at the intersection of bioengineering and regenerative medicine, particularly in biomaterials and stem cell-based therapies. Her lab explores how physical cues in the cellular environment influence stem cell behavior, aiming to develop therapies for tissue regeneration, which may interest you due to the connection with physical principles in cellular behavior.  
+   **Lab Page:** [Varghese Lab](https://bioengineering.ucsd.edu/people/faculty/faculty-directory/faculty-profile-shyni-varghese.html)
+
+3. **Dr. Todd Coleman**  
+   **Position:** Professor, Department of Bioengineering  
+   **Research Focus:** Dr. Coleman's work involves integrating neural engineering, bioinformatics, and computational neuroscience to understand biological systems. He uses machine learning and data-driven approaches to model complex biological processes, which aligns with your background in computational and machine learning applications for biological engineering.  
+   **Lab Page:** [Coleman Lab](https://bioengineering.ucsd.edu/people/faculty/faculty-directory/faculty-profile-todd-coleman.html)
+
+4. **Dr. Prashant Mali**  
+   **Position:** Associate Professor, Department of Bioengineering  
+   **Research Focus:** Dr. Mali is known for his work in gene editing and synthetic biology. His lab applies CRISPR-based technologies to understand cellular behavior and develop potential therapeutic applications, particularly in regenerative medicine and immunotherapy. This focus on gene editing technologies aligns directly with your interest in exploring fundamental biological processes and regenerative medicine.  
+   **Lab Page:** [Mali Lab](https://mali.ucsd.edu/)
+
+5. **Dr. Gene Yeo**  
+   **Position:** Professor, Department of Cellular and Molecular Medicine, and Bioengineering  
+   **Research Focus:** Dr. Yeo's lab specializes in RNA biology and gene regulation, using computational biology and machine learning to study RNA processing in stem cells and disease contexts. His research is relevant to understanding molecular mechanisms and has applications in gene therapies and regenerative medicine, intersecting well with your interest in computational and biological engineering.  
+   **Lab Page:** [Yeo Lab](https://yeolab.github.io/)
 
 ## UW
 ### Deadline: Dec 2
@@ -55,3 +82,4 @@ thumbnail: assets/img/9.jpg
 #### Addtional Requirement
 * 1-2 laboratory rotations during the first year.  If needed, a third rotation must be approved by petition to the Graduate Student Affairs Committee.
 * 1-quarter teaching experience – either a TAship or grader with student contract position. This requirement can be completed at any point during the PhD degree but is encouraged to be undertaken after the second year.
+
