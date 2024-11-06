@@ -20,6 +20,58 @@ thumbnail: assets/img/9.jpg
 
   * In addition to the above undergraduate work, a successful applicant generally has a minimum grade point average of 3.5 or higher (on a 4.0 scale), and three strong letters of recommendation from faculty with whom they have worked closely. Most of our successful applicants also have some prior research experience.
   
+### Labs
+1. **Jennifer Doudna**  
+   - *Research Focus:* Genome editing, CRISPR-Cas9, synthetic biology, and gene regulation.
+   - *Landmark Work:* Co-inventor of CRISPR-Cas9 gene-editing technology.
+   - *Lab Website:* [Doudna Lab](https://doudnalab.org/)
+  
+2. **David Schaffer**  
+   - *Research Focus:* Stem cell engineering, gene therapy, regenerative medicine, and synthetic biology.
+   - *Notable Work:* Development of new gene delivery systems and understanding stem cell behaviors for regenerative applications.
+   - *Lab Website:* [Schaffer Lab](https://bioeng.berkeley.edu/faculty-research/schaffer)
+
+3. **Amy Herr**  
+   - *Research Focus:* Bioengineering of molecular diagnostic tools, microfluidic technologies, and quantitative biology.
+   - *Notable Work:* Development of microfluidic technologies for studying proteins and understanding cell biology at the molecular level.
+   - *Lab Website:* [Herr Lab](https://herrlab.berkeley.edu/)
+
+4. **Irina Conboy**  
+   - *Research Focus:* Aging, regenerative medicine, tissue engineering, and molecular mechanisms of cellular regeneration.
+   - *Notable Work:* Research on aging and rejuvenation of tissues, especially in the context of muscle and other organ systems.
+   - *Lab Website:* [Conboy Lab](https://bioeng.berkeley.edu/faculty-research/conboy)
+
+5. **Dan Fletcher**  
+   - *Research Focus:* Cell mechanics, bioengineering, biophysics, and imaging technologies.
+   - *Notable Work:* Application of biophysical techniques to understand cellular structure, function, and communication.
+   - *Lab Website:* [Fletcher Lab](https://fletcherlab.berkeley.edu/)
+
+6. **Sanjay Kumar**  
+   - *Research Focus:* Cellular biomechanics, stem cell biology, biomaterials, and synthetic biology.
+   - *Notable Work:* Exploration of how cells respond to physical stimuli, with implications for regenerative medicine.
+   - *Lab Website:* [Kumar Lab](https://kumarlab.berkeley.edu/)
+
+7. **Kiana Aran**  
+   - *Research Focus:* Development of biosensing devices, synthetic biology, and applications of CRISPR-based diagnostics.
+   - *Notable Work:* Innovation of electronic biosensors, particularly for detecting molecular and cellular processes.
+   - *Lab Website:* [Aran Lab](https://bioeng.berkeley.edu/faculty-research/aran)
+
+8. **Luke Lee**  
+   - *Research Focus:* Integrative biosystems, bioengineering, microfluidics, and synthetic biology.
+   - *Notable Work:* Creation of novel bio-integrative systems for studying cellular interactions and biomolecular processes.
+   - *Lab Website:* [Lee Lab](https://vcresearch.berkeley.edu/faculty/luke-p-lee)
+
+9. **Niren Murthy**  
+   - *Research Focus:* Drug delivery, biomaterials, gene therapy, and tissue engineering.
+   - *Notable Work:* Development of targeted drug delivery and gene delivery platforms with applications in regenerative medicine.
+   - *Lab Website:* [Murthy Lab](https://bioeng.berkeley.edu/faculty-research/murthy)
+
+10. **Evan Variano**  
+    - *Research Focus:* Environmental and biological fluid mechanics, biophysics, and applications in microbial and cellular behavior.
+    - *Notable Work:* Study of fluid mechanics in biological systems, with relevance to synthetic biology and cellular environments.
+    - *Lab Website:* [Variano Lab](https://bioeng.berkeley.edu/faculty-research/variano)
+
+
 ## Stanford 
 * Good to go
   
