@@ -5,7 +5,9 @@ description: Project for undergraduate thesis
 img: assets/img/face_localization_using_active_shape_model.gif
 importance: 4
 category: Research
-
+images:
+  compare: true
+  slider: true
 ---
 
 The Active Shape Model (ASM) is a popular statistical tool for locating examples of known objects in images. It was first introduced by Cootes et al. [1] in 1995 and has been developed and improved over many years. ASM is a model-based method that uses a prior model of what is expected in the image. Essentially, the Active Shape Model consists of a set of profile models and a deformable shape model. The shape model describes the typical variations of an object exhibited in a set of manually annotated images, while the profile models provide a statistical representation of the gray-level structures around each model point. Given a sufficiently accurate starting position, the ASM search attempts to find the best match of the shape model to the data in a new image using the profile models. ASM also has global constraints that allow the shape model to deform only in ways observed in the training set.
@@ -13,6 +15,21 @@ The Active Shape Model (ASM) is a popular statistical tool for locating examples
 Many researchers have tried to combine pure ASM with other approaches or models to enhance its robustness, addressing some inherent limitations of the ASM model. For example, the ASM model is sensitive to illumination changes, so some researchers refine the model by introducing Local Binary Patterns (LBP) [2] into ASM model construction to make it more robust to illumination variations.
 
 A direct extension of the ASM approach led to the development of the Active Appearance Model (AAM) [3]. In addition to shape information, AAM incorporates textual information—namely, pixel intensities across the object—into the model. The AAM algorithm seeks to match both the position of the model points and a representation of the object’s texture to an image.
+
+
+## Screenshot
+
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" autoplay="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/asm01.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/asm02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/asm03.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/asm04.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/asm07.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/asm05.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/asm06.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
 
 ### References
 [1] T.F. Cootes, G.J. Edwards, and Taylor C.J. Active appearance models.[R] In 5th European Conference on Computer Vision, Berlin, Germany,1998. Springer.
