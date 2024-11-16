@@ -6,6 +6,7 @@ description: I will teach myself on biological engineering
 tags: formatting code
 categories: sample-posts
 tabs: true
+featured: true
 ---
 
 To prepare for advanced work in biological engineering and bridge your physics and computational background with biological sciences, focusing on a few core areas can be incredibly helpful. Here’s a list of commonly used textbooks that I could self-study in foundational courses:
