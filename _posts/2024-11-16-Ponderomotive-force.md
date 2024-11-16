@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ponderomotive force
+title: Ponderomotive Force
 date: 2024-11-16 14:25:00
 description: 
 tags: physics
@@ -51,6 +51,10 @@ The term **"ponderomotive"** comes from the Latin root *pondero*, meaning "to we
 ### In Context:
 The **ponderomotive force** is not about direct action but about how particles "sense" the overall structure of the field through the oscillatory motion. The terminology emphasizes the gradual, considered, and collective influence of the field on particle behavior, distinguishing it from immediate forces like the Lorentz force.
 
+---
+### Reference
+* Yan, Wenchao, et al. "High-order multiphoton Thomson scattering." Nature Photonics 11.8 (2017): 514-520.
+  
 
 ---
 ### Helpful Video
