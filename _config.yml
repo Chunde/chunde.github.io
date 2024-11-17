@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ♾️π•💕 # the website title (if blank, full name will be used instead)
+title: iℏ∮dͩ𝛑•💕 # the website title (if blank, full name will be used instead)
 first_name: Chunde
 middle_name: 
 last_name: Huang
@@ -15,7 +15,7 @@ footer_text: Never Give Up, Never Lose Hope
   # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ♾️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Chunde.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
