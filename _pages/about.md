@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Never Give Up
+subtitle: Never Give Up♾️Never Lose Hope
 
 profile:
   align: right
@@ -14,7 +14,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-> "<a href='https://www.sciencedirect.com/science/article/pii/S1355219899000350'>Nature is the realization of the simplest conceivable mathematical ideas.</a>."\
+> "<a href='https://www.sciencedirect.com/science/article/pii/S1355219899000350'>Nature is the realization of the simplest conceivable mathematical ideas.</a>"\
 > — <cite> Albert Einstein</cite>
 
 I hold a Ph.D. in Physics with a specialization in experimental research on fundamental quantum gases. This challenging and dynamic field provides me with the comprehensive knowledge and experimental skills required to delve into the mysteries of nature. My research centers on the fundamental principles of superfluidity and superconductivity across various temperatures.
