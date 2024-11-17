@@ -1,10 +1,7 @@
 {
   "basics": {
-    "name": "Chunde Huang",
-    "label": "Software Engineer & physicist",
+    "label": "Software Engineer & Physicist",
     "image": "",
-    "email": "xmuhcd@msn.com",
-    "phone": "(509) 339-4260",
     "url": "https://www.mpi.ai/",
     "summary": "I am a seasoned software engineer with over ten years of experience in software development (C++/C#/Python). In 2013, I transitioned from industry to academia to pursue a Ph.D. in physics, expanding my expertise to include quantum computing, cold atom experiment, and the quantum simulation of superfluidity. My diverse background in computer science and physics positions me to excel in interdisciplinary research. I am eager to leverage my extensive knowledge to tackle exciting and challenging projects that will change the future well beings of humankind, such as quantum computing, artificial intelligence, robotics and biological engineering etc.",
     "location": {
