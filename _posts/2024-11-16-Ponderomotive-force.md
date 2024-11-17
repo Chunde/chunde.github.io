@@ -24,7 +24,7 @@ The **ponderomotive force** is a non-linear, oscillation-averaged force experien
      where:
      - $$E$$ is the electric field strength,
      - $$\omega$$ is the angular frequency of the oscillating field,
-     - $$\nabla |E|^2$$ represents the gradient of the field intensity.
+     - $$\nabla E^2$$ represents the gradient of the field intensity.
 
 3. **Mechanism**:
    - The oscillatory motion caused by the electric field is slightly stronger in regions of higher intensity. This imbalance results in a net drift of the particle away from those regions.
