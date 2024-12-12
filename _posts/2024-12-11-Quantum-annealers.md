@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Quantum annealers
+title: Quantum Annealers
 date: 2024-12-11 05:52:13
 description: 
-tags: formatting quantum physics
-categories: sample-posts
+tags: quantum physics
+categories: Science
 tabs: true
 ---
 Quantum annealers, such as those produced by **D-Wave Systems**, are often considered distinct from "universal" quantum computers because they are designed for a specific type of task: solving optimization problems using quantum annealing. While they leverage quantum effects, they differ fundamentally from gate-based, universal quantum computers (like Google's Sycamore or IBM's quantum processors). Here's why quantum annealers are not typically considered "real" or *universal* quantum computers:
