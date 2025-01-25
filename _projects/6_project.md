@@ -2,7 +2,7 @@
 layout: page
 title: Facial Expression Analysis Based on LBPs Feature
 description: A project utilizes local binary pattern feature for facial expression analysis.
-img: assets/img/facial_expression_recognition.jpg
+img: assets/img/facial_expression_recognition.png
 importance: 4
 category: Research
 ---
