@@ -2,7 +2,7 @@
 layout: page
 title: Lithium Spectroscopy
 description: An essential experiemental skill.
-img: assets/img/lithium_spectroscopy.jpg
+img: assets/img/lithium_spectroscopy.png
 importance: 2
 category: Research
 ---
