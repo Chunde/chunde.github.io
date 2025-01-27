@@ -2,7 +2,7 @@
 layout: page
 title: BP Neural Network for Speech Recognition
 description: Implement FFT and Backpropagation from scratch for a summer project during junior
-img: assets/img/ann_voice_regonition.jpg
+img: assets/img/ann_voice_regonition.jpeg
 importance: 2
 category: Research
 # giscus_comments: true

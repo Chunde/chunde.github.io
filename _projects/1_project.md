@@ -2,7 +2,7 @@
 layout: page
 title: The Structure of Polarized Vortices in the Unitary Fermi Gas
 description: Project for Ph.D thesis
-img: assets/img/quantum_vortex.jpg
+img: assets/img/quantum_vortex.jpeg
 importance: 1
 category: Research
 # related_publications: true

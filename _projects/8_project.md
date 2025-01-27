@@ -2,7 +2,7 @@
 layout: page
 title: A Fast Implementation of HOG for Object Detection
 description: State-of-the-art real-time HOG implementation
-img: assets/img/HOG.jpg
+img: assets/img/HOG.jpeg
 importance: 2
 category: Research
 # giscus_comments: true
