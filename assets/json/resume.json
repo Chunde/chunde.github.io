@@ -122,8 +122,17 @@
         "Theoreticl Quantum Simulation",
         "Laser",
         "Optics",
-        "Spectroscopy",
-        "Circuitry"
+        "Spectroscopy"
+      ]
+    },
+    {
+      "name": "Robotics",
+      "level": "Ph.D",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Isaac Sim",
+        "ROS",
+        "Blender"
       ]
     },
     {
@@ -140,6 +149,18 @@
         "C++",
         "C#",
         "Matlab"
+      ]
+    },
+    {
+      "name": "Bilogical Engineering",
+      "level": "M.S",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Gene Editing",
+        "PCR",
+        "Organic Chemistry",
+        "ectosymbiotic",
+        "Alpha Folder"
       ]
     }
   ],
