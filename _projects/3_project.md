@@ -11,5 +11,11 @@ Ultra-cold atoms, trapped in arbitrary shaped miniaturized potentials, have inte
 
 
 ## Experimental Test Video
-
+* Here is a demo of the real-time test of phase map correction applied to the first and the minus first orders of diffraction optics systems.
+* 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/wVVnHCZW3aU?si=JziGmY1lljnl7FSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Phase Disortion Map Retrieval Simulation
+
+<iframe width="720" height="480" src="https://www.youtube.com/embed/mnNFzinXEgw?si=OHXip6yR1YY4ICt3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
