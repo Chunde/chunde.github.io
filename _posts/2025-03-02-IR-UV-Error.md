@@ -23,7 +23,7 @@ UV errors, on the other hand, are related to the **short-wavelength (high-freque
 
 ## A Practical Example: Checking IR and UV Errors for a Quantum Wave Function
 
-To illustrate how to check for IR and UV errors, let’s consider a quantum wave function \(\psi(x)\) defined on a discrete grid. We will use Python to analyze the wave function in both real space and momentum space, ensuring that the simulation is free from significant IR and UV errors.
+To illustrate how to check for IR and UV errors, let’s consider a quantum wave function $$\psi(x)$$ defined on a discrete grid. We will use Python to analyze the wave function in both real space and momentum space, ensuring that the simulation is free from significant IR and UV errors.
 
 ### Step 1: Fourier Transform the Wave Function
 The key tool for analyzing IR and UV errors is the **Fourier transform**, which converts the wave function from real space to momentum space. In momentum space, long-wavelength (IR) components correspond to low-frequency modes, while short-wavelength (UV) components correspond to high-frequency modes.
