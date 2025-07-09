@@ -10,15 +10,15 @@ tabs: true
 
 ### **Comparison: WAMP vs XAMPP**
 
-| Feature               | WAMP                          | XAMPP                         |
-|-----------------------|-------------------------------|-------------------------------|
-| **OS Support**        | Windows only                  | Cross-platform (Win/macOS/Linux) |
-| **Components**        | Apache, MySQL, PHP            | Apache, MariaDB, PHP, Perl    |
-| **Control Panel**     | System tray icon              | Dedicated control panel       |
-| **Configuration**     | More Windows-friendly         | Slightly more complex         |
-| **Portability**       | Less portable                 | More portable (can run from USB) |
-| **Multiple PHP Versions** | Supported via add-ons      | Limited without manual config |
-| **Default Ports**     | Apache: 80, MySQL: 3306       | Same                          |
+| Feature                   | WAMP                    | XAMPP                            |
+| ------------------------- | ----------------------- | -------------------------------- |
+| **OS Support**            | Windows only            | Cross-platform (Win/macOS/Linux) |
+| **Components**            | Apache, MySQL, PHP      | Apache, MariaDB, PHP, Perl       |
+| **Control Panel**         | System tray icon        | Dedicated control panel          |
+| **Configuration**         | More Windows-friendly   | Slightly more complex            |
+| **Portability**           | Less portable           | More portable (can run from USB) |
+| **Multiple PHP Versions** | Supported via add-ons   | Limited without manual config    |
+| **Default Ports**         | Apache: 80, MySQL: 3306 | Same                             |
 
 ### **Detailed Setup Instructions**
 
@@ -87,4 +87,4 @@ tabs: true
    </VirtualHost>
    ```
 
-For Docker enthusiasts, consider using `docker-compose` with WordPress official images for even better isolation between sites. Would you like me to provide those instructions as well?
+For Docker enthusiasts, consider using `docker-compose` with WordPress official images for even better isolation between sites. 
