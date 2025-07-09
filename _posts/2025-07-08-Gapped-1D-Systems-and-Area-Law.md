@@ -24,10 +24,10 @@ Gapped systems generally satisfy the **area law**, meaning entanglement entropy 
 The **area law** states that the entanglement entropy $$S_A$$ of a subsystem $$A$$ scales with its boundary size (not volume).  
 
 #### **Example: 1D Spin Chain with Nearest-Neighbor Coupling**  
-- Hamiltonian: $$H = -J \sum_i \sigma_i^z \sigma_{i+1}^z$$ (Ising model in its gapped phase).  
-- Ground state (for $$J > 0$$): $$|\psi\rangle = |\uparrow \uparrow \dots \uparrow\rangle$$ or $$|\downarrow \downarrow \dots \downarrow\rangle$$.  
-- Bipartition the chain into $$A$$ (first $$L$$ spins) and $$B$$ (rest).  
-- Reduced density matrix $$\rho_A$$ is pure (e.g., $$\rho_A = |\uparrow \dots \uparrow\rangle \langle \uparrow \dots \uparrow|$$), so $$S_A = 0$$.  
+ Hamiltonian: $$H = -J \sum_i \sigma_i^z \sigma_{i+1}^z$$ (Ising model in its gapped phase).  
+ Ground state (for $$J > 0$$): $$|\psi\rangle = |\uparrow \uparrow \dots \uparrow\rangle$$ or $$|\downarrow \downarrow \dots \downarrow\rangle$$.  
+ Bipartition the chain into $$A$$ (first $$L$$ spins) and $$B$$ (rest).  
+ Reduced density matrix $$\rho_A$$ is pure (e.g., $$\rho_A = |\uparrow \dots \uparrow\rangle \langle \uparrow \dots \uparrow|$$), so $$S_A = 0$$.  
 
 For slightly entangled states (e.g., perturbed ground states), $$S_A$$ remains **constant** (independent of $$L$$), obeying the area law. In higher dimensions, $$S_A \sim \text{boundary area of } A$$.  
 
