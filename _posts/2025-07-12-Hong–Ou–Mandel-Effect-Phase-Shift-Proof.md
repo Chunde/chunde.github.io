@@ -8,56 +8,84 @@ categories: Physics
 tabs: true  
 ---
 
-### Why the π Phase Shift Exists  
-In a symmetric beam splitter, the reflection from the **bottom side** acquires a π phase shift (factor of $$-1$$) due to the **Fresnel coefficients** and boundary conditions of electromagnetic waves. This is required because:  
-1. **Field Continuity**: The electric field undergoes a phase reversal when reflecting off a denser medium (bottom side), while the top-side reflection (air-to-glass) does not.  
-2. **Unitarity Constraint**: Without this sign flip, the beam splitter’s transformation matrix would violate probability conservation (non-unitary).  
+# Hong–Ou–Mandel (HOM) Effect: Why the Beam Splitter Needs a <span>$$\pi$$</span> Phase Shift
 
-### Discrete Proof of Unitarity Requirement  
-A 50:50 beam splitter’s transformation is represented by the matrix:  
-$$
-U = \begin{pmatrix}
-t & r \\
-r & t
-\end{pmatrix}
-$$  
-where $$t$$ (transmission) and $$r$$ (reflection) are complex coefficients.  
+## 1. Introduction
+In the Hong–Ou–Mandel (HOM) effect, two indistinguishable photons incident on a beam splitter interfere in such a way that they always exit the same output port (bunching). A key requirement is that **reflection from the bottom side introduces a $$\pi$$ phase shift**, while reflection from the top does not.
 
-#### Step 1: Unitarity Condition  
-For $$U$$ to be unitary, it must satisfy $$U^\dagger U = I$$. Explicitly:  
+## 2. The Correct Beam Splitter Transformation
+A 50:50 beam splitter transforms input modes ($$\hat{a}_1, \hat{a}_2$$) into output modes ($$\hat{a}_3, \hat{a}_4$$):
+
+<div style="margin: 15px 0; padding: 10px; background-color: #f8f9fa; border-radius: 5px;">
 $$
-\begin{pmatrix}
-t^* & r^* \\
-r^* & t^*
+\begin{cases}
+\hat{a}_1 \rightarrow \frac{1}{\sqrt{2}}(\hat{a}_3 + \hat{a}_4) \\
+\hat{a}_2 \rightarrow \frac{1}{\sqrt{2}}(\hat{a}_3 - \hat{a}_4)
+\end{cases}
+$$
+</div>
+
+Matrix form:
+
+<div style="margin: 15px 0; padding: 10px; background-color: #f8f9fa; border-radius: 5px;">
+$$
+U = \frac{1}{\sqrt{2}}\begin{pmatrix}
+1 & 1 \\
+1 & -1
+\end{pmatrix}
+$$
+</div>
+
+## 3. Proof of Unitarity
+A matrix $$U$$ is unitary if $$U^\dagger U = I$$. Verification:
+
+<div style="margin: 15px 0; padding: 10px; background-color: #f8f9fa; border-radius: 5px;">
+$$
+U^\dagger U = \frac{1}{2}\begin{pmatrix}
+1 & 1 \\
+1 & -1
 \end{pmatrix}
 \begin{pmatrix}
-t & r \\
-r & t
-\end{pmatrix}
-= 
-\begin{pmatrix}
-|t|^2 + |r|^2 & t^*r + r^*t \\
-r^*t + t^*r & |r|^2 + |t|^2
+1 & 1 \\
+1 & -1
 \end{pmatrix}
 = I
-$$  
+$$
+</div>
 
-#### Step 2: Constraints on Coefficients  
-From the off-diagonal terms:  
-1. $$t^*r + r^*t = 0$$ (destructive interference condition).  
-2. $$|t|^2 + |r|^2 = 1$$ (energy conservation).  
+**⇒ $$U$$ is unitary.**
 
-For a 50:50 splitter, $$|t| = |r| = \frac{1}{\sqrt{2}}$$. Let $$t = \frac{1}{\sqrt{2}}$$ (real for simplicity), then:  
-- If **no π shift** ($$r = \frac{1}{\sqrt{2}}$$), the off-diagonal term becomes:  
-  $$\frac{1}{\sqrt{2}} \cdot \frac{1}{\sqrt{2}} + \frac{1}{\sqrt{2}} \cdot \frac{1}{\sqrt{2}} = 1 \neq 0$$ → **Violates unitarity**.  
-- With **π shift** ($$r = -\frac{1}{\sqrt{2}}$$), the term becomes:  
-  $$\frac{1}{\sqrt{2}} \cdot \left(-\frac{1}{\sqrt{2}}\right) + \left(-\frac{1}{\sqrt{2}}\right) \cdot \frac{1}{\sqrt{2}} = -1/2 -1/2 = -1 \neq 0$$. Wait, this still seems problematic.  
+## 4. Without $$\pi$$ Phase Shift
+Incorrect transformation matrix:
 
-Correction: The correct phase difference is **π/2** between $$t$$ and $$r$$ (not π). For unitary, we need:  
-$$t = \frac{1}{\sqrt{2}}$$, $$r = \frac{i}{\sqrt{2}}$$ (top reflection) or $$r = -\frac{i}{\sqrt{2}}$$ (bottom reflection). Then:  
-$$t^*r + r^*t = (-i)(i)/2 + (i)(-i)/2 = 1/2 - 1/2 = 0$$.  
+<div style="margin: 15px 0; padding: 10px; background-color: #f8f9fa; border-radius: 5px;">
+$$
+U_{\text{wrong}} = \frac{1}{\sqrt{2}}\begin{pmatrix}
+1 & 1 \\
+1 & 1
+\end{pmatrix}
+$$
+</div>
 
-#### Conclusion  
-The π/2 phase difference (or sign flip for real coefficients) ensures unitarity. In the HOM effect, the **relative π shift** between top/bottom reflections guarantees destructive interference at one output port, preserving quantum reversibility.  
+Fails unitarity check:
 
-Key takeaway: The phase convention is fixed by unitarity, not arbitrary. No π shift → non-unitary → violates quantum mechanics.
+<div style="margin: 15px 0; padding: 10px; background-color: #f8f9fa; border-radius: 5px;">
+$$
+U_{\text{wrong}}^\dagger U_{\text{wrong}} = \begin{pmatrix}
+1 & 1 \\
+1 & 1
+\end{pmatrix} \neq I
+$$
+</div>
+
+## Key Results
+
+| Case       | Matrix                                                          | Unitary? | HOM Effect?   |
+| ---------- | --------------------------------------------------------------- | -------- | ------------- |
+| Correct    | $$\frac{1}{\sqrt{2}}\begin{pmatrix}1 & 1\\1 & -1\end{pmatrix}$$ | ✅ Yes    | ✅ Bunching    |
+| No π shift | $$\frac{1}{\sqrt{2}}\begin{pmatrix}1 & 1\\1 & 1\end{pmatrix}$$  | ❌ No     | ❌ No bunching |
+
+## Conclusion
+1. The $$\pi$$ phase shift ensures unitarity: $$U^\dagger U = I$$
+2. Required for destructive interference in the $$|1,1\rangle$$ output state
+3. Essential for observing the HOM dip in coincidence measurements
