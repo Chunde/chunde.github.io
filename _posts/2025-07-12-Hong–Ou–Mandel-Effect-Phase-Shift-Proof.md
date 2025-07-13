@@ -86,6 +86,4 @@ $$
 | No π shift | $$\frac{1}{\sqrt{2}}\begin{pmatrix}1 & 1\\1 & 1\end{pmatrix}$$  | ❌ No     | ❌ No bunching |
 
 ## Conclusion
-1. The $$\pi$$ phase shift ensures unitarity: $$U^\dagger U = I$$
-2. Required for destructive interference in the $$|1,1\rangle$$ output state
-3. Essential for observing the HOM dip in coincidence measurements
+The $$\pi$$ phase shift ensures unitarity: $$U^\dagger U = I$$, required for destructive interference in the $$|1,1\rangle$$ output state. Essential for observing the HOM dip in coincidence measurements.
