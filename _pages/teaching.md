@@ -19,7 +19,7 @@ Physics 201 at Washington State University is a calculus-based course titled **P
 - **Textbook**: *Physics for Scientists and Engineers: A Strategic Approach* by Randall Knight².
 
 
-(1) [Physics for Scientists and Engineers I (Phys 201, section 02)]( https://public.wsu.edu/~collins/201/syllabus.pdf)
+(1) [Physics for Scientists and Engineers I (Phys 201, section 02)]()
 
 (2) [The Washington State University Tri-Cities Catalog]( https://catalog.wsu.edu/Tri-Cities/Courses/ByList/PHYSICS/201).
 
