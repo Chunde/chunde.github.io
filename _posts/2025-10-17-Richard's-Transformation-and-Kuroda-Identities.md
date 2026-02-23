@@ -22,9 +22,9 @@ The transformation introduces a new frequency variable:
 $$Ω = \tan\left(\frac{πω}{2ω_0}\right)$$
 
 Where:
-- $$Ω$$ is the transformed frequency variable
-- $$ω$$ is the actual angular frequency
-- $$ω_0$$ is the design frequency (usually the cutoff frequency)
+- Ω is the transformed frequency variable
+- ω is the actual angular frequency
+- $ω_0$ is the design frequency (usually the cutoff frequency)
 
 ### Key Transformations
 
